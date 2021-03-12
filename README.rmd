@@ -1,7 +1,8 @@
 Project made for Advanced Object-Oriented and Functional by Maciej Gryszkiewicz and Maciej Chylak .
 
 In the main menu user can choose three options of weather prediction: current, hourly and daily. User is also able to change language of the app on English or Polish. 
-![Main menu](https://user-images.githubusercontent.com/56119413/110941544-d29f6200-8338-11eb-8297-f60e7f6bbd5e.png)
+![image1](https://ibb.co/bQJFBZH)
+![image2](https://user-images.githubusercontent.com/56119413/110941815-30cc4500-8339-11eb-96a2-432560ae6d02.png)
 
 
 After clicking one of three weather buttons, user have to insert city name and choose metric system. On the right panel adequate prediction will be shown
