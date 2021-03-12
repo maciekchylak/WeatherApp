@@ -1,6 +1,6 @@
 ## Weather app
 
-Project made for Advanced Object-Oriented and Functional by Maciej Gryszkiewicz and Maciej Chylak .
+Project made for Advanced Object-Oriented and Functional by Maciej Gryszkiewicz, Miłosz Mazur and Maciej Chylak .
 
 In the main menu user can choose three options of weather prediction: current, hourly and daily. User is also able to change language of the app on English or Polish. 
 
